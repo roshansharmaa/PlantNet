@@ -1,0 +1,36 @@
+  :root {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: dark light;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  :root {
+    --maincolor-color: '#37ff69';
+    --orange-color: '#cc473c';
+    --bgcolor-btn: '31b853';
+    --third-color: '#f4c523';
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  h1,
+  h2,
+  h3,
+  h5 {
+    margin: 0;
+
+  }
+
+  button {
+    cursor: pointer;
+  }
